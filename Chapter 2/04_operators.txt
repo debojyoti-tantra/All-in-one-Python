@@ -1,0 +1,10 @@
+!= not equals to
+= assignment operator
+== compression operator
+
+
+or = if any one is true it returns true, if both are false hen it returns false
+
+and = if both are true then it returns true, if one of them is false it returns false
+
+not = it converts true to false and false to true
