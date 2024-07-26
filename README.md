@@ -16,3 +16,6 @@
 - String Function
 - Escape Sequence Characters
 - problems
+## Chapter 4 - Lists & Tuples
+- Basics of List
+- List Methods
