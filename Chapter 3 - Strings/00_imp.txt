@@ -1,0 +1,3 @@
+Strings are immuatable
+
+we cann't change any element of string (but we can change elements of list)
