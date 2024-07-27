@@ -19,3 +19,6 @@
 ## Chapter 4 - Lists & Tuples
 - Basics of List
 - List Methods
+- Tuple
+- Tuple Methods
+- Problems
