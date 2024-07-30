@@ -22,3 +22,6 @@
 - Tuple
 - Tuple Methods
 - Problems
+## Chapter 5 - Dictionary & Sets
+- Basics of Dictionary
+- Dictionary Methods
