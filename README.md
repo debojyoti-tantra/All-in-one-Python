@@ -1,5 +1,7 @@
 # All-in-one-Python
 - A to Z about Python (including Projects)
+- Solving many types of Problems
+- <b>Projects</b>
 ## Chapter 1
 - Bassics
 - Basic Modules
