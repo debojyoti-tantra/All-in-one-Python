@@ -31,3 +31,7 @@
 - Sets Methods
 - Sets - Union and Intersection
 - Problems
+## Chapter 6 - Conditional Expression
+- Conditionals
+- Operators
+- Problems
