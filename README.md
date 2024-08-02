@@ -27,3 +27,7 @@
 ## Chapter 5 - Dictionary & Sets
 - Basics of Dictionary
 - Dictionary Methods
+- Sets
+- Sets Methods
+- Sets - Union and Intersection
+- Problems
