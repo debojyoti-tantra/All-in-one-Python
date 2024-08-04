@@ -35,3 +35,12 @@
 - Conditionals
 - Operators
 - Problems
+## Chapter 07 – Loops In Python
+- Basic of Loops
+- While Loop
+- For Loop
+- For Loop with Else
+- The Break Statement
+- The Continue Statement
+- Pass Statement
+- Problem
