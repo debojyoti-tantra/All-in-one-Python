@@ -1,1 +1,17 @@
+First we defined
+stone = 1
+paper = 2
+scissor = 3
 
+chose randon number from computer within 1,2,3 
+by useing:
+import random
+computer = random.choice([1, 2, 3])
+
+then i make dict to convert str to num and reverse dict to convert num to str as i need
+
+then i use
+you = your_dict[your_numb]
+your_numb is take as input and that str put into your_dict and convert it into num
+
+then use if-elif-else ladder
