@@ -1,0 +1,1 @@
+Wow, what i am writing here autometicly create a new txt file by this python methods
