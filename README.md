@@ -1,7 +1,7 @@
 # All-in-one-Python
 - **Clone the repository** to your local machine using:
 ```sh
-(https://github.com/debojyoti-tantra/All-in-one-Python.git)
+git clone https://github.com/debojyoti-tantra/All-in-one-Python.git
 ```
 - A to Z about Python (including Projects)
 - Solving many types of Problems
