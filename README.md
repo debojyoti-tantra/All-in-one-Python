@@ -1,11 +1,11 @@
 # All-in-one-Python
-- **Clone the repository** to your local machine using:
-```sh
-git clone https://github.com/debojyoti-tantra/All-in-one-Python.git
-```
 - A to Z about Python (including Projects)
 - Solving many types of Problems
 - <b>Projects</b>
+## **Clone the repository** to your local machine using:
+```sh
+git clone https://github.com/debojyoti-tantra/All-in-one-Python.git
+```
 ## Chapter 1
 - Bassics
 - Basic Modules
