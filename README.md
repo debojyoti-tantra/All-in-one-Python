@@ -1,7 +1,7 @@
 # All-in-one-Python
 - A to Z about Python (including Projects)
 - Solving many types of Problems
-- 
+- Python Libraries
 - <b>Projects</b>
 ## **Clone the repository** to your local machine using:
 ```sh
